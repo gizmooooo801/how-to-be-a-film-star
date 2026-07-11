@@ -1,6 +1,0 @@
-{
-  "name": "像素女明星模拟器",
-  "description": "一款像素风格的沉浸式女明星模拟器文本角色扮演游戏。扮演富家千金娱乐圈新人，体验真实的明星演艺生涯，发布社媒、粉丝群互动，探索多重支线剧情。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
